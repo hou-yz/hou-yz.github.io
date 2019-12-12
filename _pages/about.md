@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 This is Yunzhong Hou's home page. 
 
-About me
+Short Bio
 ======
 Yunzhong Hou is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://www.liangzheng.com.cn/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
 Before that, he received his bachelor of science degree in electronic engineering from Tsinghua University in 2018. 

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunzhong Hou"
   avatar           : "profile.png"
-  bio              : "Yunzhong Hou is a PhD student in Computer Science at the Australian National University (ANU). "
+  bio              : "a PhD student in Computer Science @ ANU"
   location         : "Canberra, Australia"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pFD8DoIAAAAJ&hl=en"
-  email            :
+  email            : yunzhong.hou@anu.edu.au
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/yunzhong-hou-693794103/
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
