@@ -85,7 +85,7 @@ author:
   bio              : "Yunzhong Hou is a PhD student in Computer Science at the Australian National University (ANU). "
   location         : "Canberra, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pFD8DoIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
