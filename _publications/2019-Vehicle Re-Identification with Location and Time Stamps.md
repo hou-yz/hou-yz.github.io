@@ -3,7 +3,7 @@ title: "Vehicle Re-Identification with Location and Time Stamps"
 collection: publications
 permalink: /publication/2019-Vehicle Re-Identification with Location and Time Stamps
 excerpt: 'In order to identify the similar looking vehicles, location and time stamps are used as cues in addition to appearance.'
-date: 2019
+date: 2019-05-15
 venue: 'CVPR workshop on AI-City'
 paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf'
 citation: '@inproceedings{lv2019vehicle,

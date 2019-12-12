@@ -3,7 +3,7 @@ title: "Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step 
 collection: publications
 permalink: /publication/2019-Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step Pruning
 excerpt: 'This paper proposes a novel 2-step pruning method that can drastically decrease the bandwitdh requirement for transimitting feature map from given layer. In such cases, the network can be partially deployed on mobile devices without increasing bandwidth requirement.'
-date: 2019
+date: 2019-03-08
 venue: 'Infocom workshop on IECOO'
 paperurl: 'https://arxiv.org/abs/1903.03472'
 citation: '@article{shi2019improving,

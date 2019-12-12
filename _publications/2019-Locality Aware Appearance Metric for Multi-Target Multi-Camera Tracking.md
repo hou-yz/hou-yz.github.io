@@ -3,7 +3,7 @@ title: "Locality Aware Appearance Metric for Multi-Target Multi-Camera Tracking"
 collection: publications
 permalink: /publication/2019-Locality Aware Appearance Metric for Multi-Target Multi-Camera Tracking
 excerpt: 'We find a inherent gap between multi-target multi-camera tracking (MTMCT) and re-identification (re-ID). Re-ID matches globally, whereas MTMCT only needs to match with a local region. To fit the local matching procedure in MTMCT, in this work, we introduce locality aware appearance metric (LAAM), that can be deployed on top of several globally learned appearance features.'
-date: 2019
+date: 2019-11-27
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1911.12037'
 citation: '@article{hou2019locality,
