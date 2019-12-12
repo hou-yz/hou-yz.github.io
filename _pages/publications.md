@@ -3,7 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-author.googlescholar: https://scholar.google.com/citations?user=pFD8DoIAAAAJ&hl=en
 ---
 
 {% if author.googlescholar %}
@@ -15,3 +14,6 @@ author.googlescholar: https://scholar.google.com/citations?user=pFD8DoIAAAAJ&hl=
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+---
+You can also find all my articles on <u><a href="https://scholar.google.com/citations?user=pFD8DoIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
