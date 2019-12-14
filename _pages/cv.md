@@ -19,11 +19,11 @@ Work experience
 * Summer 2018: Research Assistant
   * Tsinghua University
   * Topic: Multi-target multi-camera tracking
-  * Supervisor: Professor Shengjin Wang
+  * Supervisor: Prof. Shengjin Wang
 
 * Fall 2017: Developer
   * Dingfu Data
-  * Topic: Web Crawler
+  * Topic: Web Crawling & data analysis
   * Supervisor: Dr. Dan Guo
   
 Skills
