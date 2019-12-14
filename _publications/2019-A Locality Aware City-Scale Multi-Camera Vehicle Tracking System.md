@@ -19,6 +19,8 @@ venue: 'CVPR workshop on AI-City'
 
 Vehicle tracking across multiple cameras can be difficult for modern tracking systems. Given unlikely candidates and faulty similarity estimation, data association struggles at city-scale tracking. In order to avoid difficulties in a large scenario, we keep the tracking procedure within a minimal range. The benefit of this smaller scenario idea is two-fold. On the one hand, ruling out most unlikely candidates decrease the possibility of mis-assignment. On the other hand, the system can devote all its discriminative power on the remaining local candidate pool. In fact, our tracking system features two parts to keep the data association within a small range, while at the same time increase the locality awareness for smaller scenarios. First, multiple cues including spatial-temporal information and camera topology are leveraged to restrict the candidate selection. Second, the appearance similarity estimation module is carefully tuned so that it focuses on the smaller local candidate pool. Based on a minimal view for the large scenario, the proposed system finished 5-th place in the 2019 AI-City challenge for city-scale multi-camera vehicle tracking.
 
+![alt text](/images/tracking_workshop.png "Multi-camera topology & sub-scenario division")
+
 ---
 [Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Hou_A_Locality_Aware_City-Scale_Multi-Camera_Vehicle_Tracking_System_CVPRW_2019_paper.pdf)
 

@@ -20,8 +20,10 @@ Multi-target multi-camera tracking (MTMCT) systems track targets across cameras.
 
 To fit the local matching procedure in MTMCT, in this work, we introduce locality aware appearance metric (LAAM). Specifically, we design an intra-camera metric for single camera tracking, and an inter-camera metric for multi-camera tracking. Both metrics are trained with data pairs sampled from their corresponding local neighborhoods, as opposed to global sampling in the re-ID perspective. We show that the locally learned metrics can be successfully applied on top of several globally learned re-ID features. With the proposed method, we report new state-of-the-art performance on the DukeMTMC dataset, and a substantial improvement on the CityFlow dataset.
 
+![alt text](/images/TLML_intro.png "local matching in tracking: global metric vs. locality aware appearance metric")
+
 ---
-[Download paper here](https://arxiv.org/abs/1911.12037)
+[Download paper here](https://arxiv.org/pdf/1911.12037.pdf)
 
 ---
 citation:
