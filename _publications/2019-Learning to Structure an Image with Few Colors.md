@@ -22,7 +22,8 @@ Color and structure are the two pillars that construct an image. Usually, the st
 
 ---
 [Download link (to-be announced)]()
-[github](https://github.com/hou-yz/color_distillation)
+
+[code](https://github.com/hou-yz/color_distillation)
 
 ---
 citation:

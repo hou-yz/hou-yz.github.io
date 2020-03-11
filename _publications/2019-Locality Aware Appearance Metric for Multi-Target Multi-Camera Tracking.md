@@ -25,6 +25,10 @@ To fit the local matching procedure in MTMCT, in this work, we introduce localit
 ---
 [Download paper here](https://arxiv.org/pdf/1911.12037.pdf)
 
+[code](https://github.com/hou-yz/DeepCC-local)
+
+[知乎](https://zhuanlan.zhihu.com/p/96999382)
+
 ---
 citation:
 ```

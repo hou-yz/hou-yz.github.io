@@ -23,6 +23,8 @@ Deep neural networks (DNNs) are state-of-the-art solutions for many machine lear
 ---
 [Download paper here](https://arxiv.org/pdf/1903.03472.pdf)
 
+[code](https://github.com/hou-yz/pytorch-pruning-2step)
+
 ---
 citation:
 ```

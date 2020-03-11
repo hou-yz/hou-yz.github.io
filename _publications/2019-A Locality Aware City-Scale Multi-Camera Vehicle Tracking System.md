@@ -24,6 +24,8 @@ Vehicle tracking across multiple cameras can be difficult for modern tracking sy
 ---
 [Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Hou_A_Locality_Aware_City-Scale_Multi-Camera_Vehicle_Tracking_System_CVPRW_2019_paper.pdf)
 
+
+[code](https://github.com/hou-yz/DeepCC-local)
 ---
 citation:
 ```

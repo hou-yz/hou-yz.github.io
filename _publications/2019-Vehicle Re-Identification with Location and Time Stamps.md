@@ -23,6 +23,8 @@ This paper focuses on the problem of vehicle reidentification (Re-ID). In our at
 ---
 [Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf)
 
+[code](https://github.com/hou-yz/open-reid-tracking)
+
 ---
 citation:
 ```
