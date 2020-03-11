@@ -20,6 +20,15 @@ His current research interest lies in computer vision and deep learning. More sp
 
 News
 ======
+<img align="left" width="120" height="120" src="images/eccv-2020.png">
+
+Two papers are submitted to ECCV 2020.
+
+<img align="left" width="120" height="120" src="images/CVPR_Logo_Horz2_web.jpg">
+
+**Our paper _"Learning to Structure an Image with Few Colors"_ is accepted by CVPR 2020.**
+
+
 <img align="left" width="120" height="120" src="images/TLML_intro_narrow.png">
 
 A new paper "Locality aware appearance metric for multi-target multi-camera tracking" is released on arXiv. [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
