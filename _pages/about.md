@@ -24,6 +24,7 @@ News
 
 Two papers are submitted to ECCV 2020.
 
+
 <img align="left" width="120" height="120" src="images/CVPR_Logo_Horz2_web.jpg">
 
 **Our paper _"Learning to Structure an Image with Few Colors"_ is accepted by CVPR 2020.**
