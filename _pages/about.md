@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Yunzhong Hou's home page. 
-
 About me
 ======
 Yunzhong Hou is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://www.liangzheng.com.cn/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
 Before that, he received his bachelor of science degree in electronic engineering from Tsinghua University in 2018. 
 
-His current research interest lies in computer vision and deep learning. More specifically, it includes multi-object tracking, re-identification, generative adversial networks and reinforcement learning.
+His current research interest lies in computer vision and deep learning. More specifically, it includes image compression, tracking, re-identification, generative adversial networks and reinforcement learning.
 
 
 News
@@ -32,7 +30,7 @@ News
 
 <img align="right" width="120" height="120" src="images/TLML_intro_narrow.png">
 
-A new paper "[Locality aware appearance metric for multi-target multi-camera tracking](https://hou-yz.github.io/publication/2019-Locality%20Aware%20Appearance%20Metric%20for%20Multi-Target%20Multi-Camera%20Tracking)" is released on arXiv. [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
+- A new paper "[Locality aware appearance metric for multi-target multi-camera tracking](https://hou-yz.github.io/publication/2019-Locality%20Aware%20Appearance%20Metric%20for%20Multi-Target%20Multi-Camera%20Tracking)" is released on arXiv. [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
 
 
 <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg">
@@ -41,7 +39,7 @@ A new paper "[Locality aware appearance metric for multi-target multi-camera tra
 
 <img align="right" width="120" height="120" src="images/tracking_workshop.png">
 
-Won 5th place out of 22 participants in multi-target multi-camera tracking in CVPR 2019 AI-City Challenge. [paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Hou_A_Locality_Aware_City-Scale_Multi-Camera_Vehicle_Tracking_System_CVPRW_2019_paper.pdf), [code](https://github.com/hou-yz/DeepCC-local).
+- Won 5th place out of 22 participants in multi-target multi-camera tracking in CVPR 2019 AI-City Challenge. [paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Hou_A_Locality_Aware_City-Scale_Multi-Camera_Vehicle_Tracking_System_CVPRW_2019_paper.pdf), [code](https://github.com/hou-yz/DeepCC-local).
 
 <img align="right" width="120" height="120" src="images/reid_workshop.png">
 
