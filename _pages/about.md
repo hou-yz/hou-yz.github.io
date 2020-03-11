@@ -20,7 +20,7 @@ His current research interest lies in computer vision and deep learning. More sp
 
 News
 ======
-<img align="left" width="120" height="60" src="images/eccv-2020.png">
+<img align="left" width="60" height="60" src="images/eccv-2020.png">
 
 Two papers are submitted to ECCV 2020.
 
