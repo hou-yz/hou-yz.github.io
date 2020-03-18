@@ -25,7 +25,7 @@ News
 
 <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg">
 
-- **Our paper _"[Learning to Structure an Image with Few Colors](https://hou-yz.github.io/publication/2019-Learning%20to%20Structure%20an%20Image%20with%20Few%20Colors)"_ is accepted by CVPR 2020.** [code](https://github.com/hou-yz/color_distillation)
+- **Our paper _"[Learning to Structure an Image with Few Colors](https://hou-yz.github.io/publication/2019-Learning%20to%20Structure%20an%20Image%20with%20Few%20Colors)"_ is accepted by CVPR 2020.** [paper](https://arxiv.org/abs/2003.07848), [code](https://github.com/hou-yz/color_distillation)
 
 
 <img align="right" width="120" height="120" src="images/TLML_intro_narrow.png">

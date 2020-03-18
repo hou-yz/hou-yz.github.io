@@ -21,7 +21,7 @@ Color and structure are the two pillars that construct an image. Usually, the st
 ![alt text](/images/ColorCNN_system.png "System overview of image color quantization with ColorCNN.")
 
 ---
-[Download link (to-be announced)]()
+[paper](https://arxiv.org/abs/2003.07848)
 
 [code](https://github.com/hou-yz/color_distillation)
 

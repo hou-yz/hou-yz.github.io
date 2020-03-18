@@ -23,7 +23,7 @@ To fit the local matching procedure in MTMCT, in this work, we introduce localit
 ![alt text](/images/TLML_intro.png "local matching in tracking: global metric vs. locality aware appearance metric")
 
 ---
-[Download paper here](https://arxiv.org/pdf/1911.12037.pdf)
+[paper](https://arxiv.org/pdf/1911.12037.pdf)
 
 [code](https://github.com/hou-yz/DeepCC-local)
 
