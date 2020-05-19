@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Yunzhong Hou is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://www.liangzheng.com.cn/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
+Yunzhong Hou (侯云钟) is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://www.liangzheng.com.cn/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
 Before that, he received his bachelor of science degree in electronic engineering from Tsinghua University in 2018. 
 
 His current research interest lies in computer vision and deep learning. More specifically, it includes image compression, tracking, re-identification, generative adversial networks and reinforcement learning.
