@@ -16,7 +16,7 @@ Incorporating multiple camera views for detection alleviates the impact of occlu
 
 Wildtrack             |  MultiviewX
 :-------------------------:|:-------------------------:
-![alt text](/images/eccv2020_mvdet_wildtrack.gif "Detection results on Wildtrack dataset")  |  ![alt text](/images/eccv2020_mvdet_multiviewx.gif "Detection results on MultiviewX dataset")
+![alt text](/images/eccv2020_mvdet_wildtrack_demo.gif "Detection results on Wildtrack dataset")  |  ![alt text](/images/eccv2020_mvdet_multiviewx_demo.gif "Detection results on MultiviewX dataset")
 
 ![alt text](/images/eccv2020_mvdet_architecture.png "Architecture for MVDet")
 
