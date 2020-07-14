@@ -28,10 +28,11 @@ Color and structure are the two pillars that construct an image. Usually, the st
 ---
 citation:
 ```
-@article{hou2020learning,
+@inproceedings{hou2020learning,
   title={Learning to Structure an Image with Few Colors},
   author={Hou, Yunzhong and Zheng, Liang and Gould, Stephen},
-  journal={CVPR},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10116--10125},
   year={2020}
 }
 ```

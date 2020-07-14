@@ -30,10 +30,10 @@ Wildtrack             |  MultiviewX
 ---
 citation:
 ```
-@article{hou2020multiview,
+@inproceedings{hou2020multiview,
   title={Multiview Detection with Feature Perspective Transformation},
   author={Hou, Yunzhong and Zheng, Liang and Gould, Stephen},
-  journal={ECCV},
+  booktitle={ECCV},
   year={2020}
 }
 ```
