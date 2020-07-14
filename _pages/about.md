@@ -20,17 +20,17 @@ News
 ======
 <img align="right" width="40" height="40" src="images/eccv-2020.png">
 
-- **Our paper _"[Multiview Detection with Feature Perspective Transformation](https://hou-yz.github.io/publication/2020-MVDet)"_ is accepted by ECCV 2020.** [paper](), [code](https://github.com/hou-yz/MVDet).
+- **Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by ECCV 2020.** [paper](), [code](https://github.com/hou-yz/MVDet).
 
 
 <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg">
 
-- Our paper _"[Learning to Structure an Image with Few Colors](https://hou-yz.github.io/publication/2019-Learning%20to%20Structure%20an%20Image%20with%20Few%20Colors)"_ is accepted by CVPR 2020. [paper](https://arxiv.org/abs/2003.07848), [code](https://github.com/hou-yz/color_distillation)
+- Our paper _"[Learning to Structure an Image with Few Colors](/publication/2019-cvpr2020-colorcnn)"_ is accepted by CVPR 2020. [paper](https://arxiv.org/abs/2003.07848), [code](https://github.com/hou-yz/color_distillation)
 
 
 <img align="right" width="120" height="120" src="images/TLML_intro_narrow.png">
 
-- A new paper "[Locality aware appearance metric for multi-target multi-camera tracking](https://hou-yz.github.io/publication/2019-Locality%20Aware%20Appearance%20Metric%20for%20Multi-Target%20Multi-Camera%20Tracking)" is released on arXiv. [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
+- A new paper "[Locality aware appearance metric for multi-target multi-camera tracking](/publication/2019-arxiv-mtmc-metric)" is released on arXiv. [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
 
 
 <!-- <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg">
@@ -47,7 +47,7 @@ News
 
 <img align="right" width="120" height="120" src="images/2-step_pruning.png">
 
-- Our paper "[Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step Pruning](https://hou-yz.github.io/publication/2019-Improving%20Device-Edge%20Cooperative%20Inference%20of%20Deep%20Learning%20via%202-Step%20Pruning)" is accepted in "Infocom workshop on IECOO 2019". [paper](https://arxiv.org/abs/1903.03472.pdf), [code](https://github.com/hou-yz/pytorch-pruning-2step).
+- Our paper "[Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step Pruning](/publication/2018-infocom2019workshop-pruning)" is accepted in "Infocom workshop on IECOO 2019". [paper](https://arxiv.org/abs/1903.03472.pdf), [code](https://github.com/hou-yz/pytorch-pruning-2step).
 
 
 
