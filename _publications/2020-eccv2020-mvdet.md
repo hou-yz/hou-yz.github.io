@@ -21,7 +21,7 @@ Wildtrack             |  MultiviewX
 ![alt text](/images/eccv2020_mvdet_architecture.png "Architecture for MVDet")
 
 ---
-[paper (TBD)]()
+[paper](https://arxiv.org/abs/2007.07247)
 
 [code](https://github.com/hou-yz/MVDet)
 

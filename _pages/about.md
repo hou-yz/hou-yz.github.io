@@ -22,7 +22,7 @@ News
 
 <!-- <img align="right" width="40" height="40" src="images/eccv-2020.png"> -->
 
-- **Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by *ECCV 2020*.** [paper (TBD)](), [code](https://github.com/hou-yz/MVDet), [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn).
+- **Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by *ECCV 2020*.** [paper](https://arxiv.org/abs/2007.07247), [code](https://github.com/hou-yz/MVDet), [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn).
 
 
 <!-- <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg"> -->
