@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Engineering, Tsinghua University, 2018
-* Ph.D in Computer Science, Australian National University, 2023 (expected)
+* Ph.D. in Computer Science, Australian National University, 2023 (expected)
+* B.Eng. in Electronic Engineering, Tsinghua University, 2018
 
 Work experience
 ======
