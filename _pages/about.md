@@ -22,12 +22,12 @@ News
 
 <!-- <img align="right" width="40" height="40" src="images/eccv-2020.png"> -->
 
-- **Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by *ECCV 2020*.** [paper](https://arxiv.org/abs/2007.07247), [code](https://github.com/hou-yz/MVDet), [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn).
+- **Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by *ECCV 2020*.** [paper](https://arxiv.org/abs/2007.07247), [code](https://github.com/hou-yz/MVDet), [知乎](https://zhuanlan.zhihu.com/p/196771711), [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn).
 
 
 <!-- <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg"> -->
 
-- Our paper _"[Learning to Structure an Image with Few Colors](/publication/2019-cvpr2020-colorcnn)"_ is accepted by *CVPR 2020*. [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Learning_to_Structure_an_Image_With_Few_Colors_CVPR_2020_paper.pdf), [code](https://github.com/hou-yz/color_distillation)
+- Our paper _"[Learning to Structure an Image with Few Colors](/publication/2019-cvpr2020-colorcnn)"_ is accepted by *CVPR 2020*. [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Learning_to_Structure_an_Image_With_Few_Colors_CVPR_2020_paper.pdf), [知乎](https://zhuanlan.zhihu.com/p/148160812), [code](https://github.com/hou-yz/color_distillation)
 
 
 <!-- <img align="right" width="120" height="120" src="images/TLML_intro_narrow.png"> -->

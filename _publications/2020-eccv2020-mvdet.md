@@ -25,6 +25,8 @@ Wildtrack             |  MultiviewX
 
 [code](https://github.com/hou-yz/MVDet)
 
+[知乎](https://zhuanlan.zhihu.com/p/196771711)
+
 [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn)
 
 ---
