@@ -30,16 +30,10 @@ Community service
 Teaching
 ======
 * Guest speaker for [COMP3670](https://programsandcourses.anu.edu.au/2021/course/comp3670)/[COMP6670](https://programsandcourses.anu.edu.au/2021/course/comp6670).
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Talks
 ======
 * Invited speaker at [智东西公开课](https://mp.weixin.qq.com/s/MyUFoQAbnCh7gVN-TgabGQ).
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
 
 Challenges
 ======
