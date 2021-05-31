@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Yunzhong Hou (侯云钟) is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://www.liangzheng.com.cn/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
+Yunzhong Hou (侯云钟) is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
 Before that, he received his bachelor degree in electronic engineering from Tsinghua University in 2018. 
 
 His current research interest lies in computer vision and deep learning. More specifically, it includes domain adaptation, multiview detection, tracking, re-identification, generative adversial networks and reinforcement learning.
@@ -19,20 +19,26 @@ His current research interest lies in computer vision and deep learning. More sp
 News
 ======
 
+- **Our paper _"[Visualizing Adapted Knowledge in Domain Transfer](/publication/2020-cvpr2021-sfit)"_ is accepted by *CVPR 2021*.** 
+[paper](https://arxiv.org/abs/2104.10602), [code](https://github.com/hou-yz/DA_visualization), [知乎-UDA可视化](https://zhuanlan.zhihu.com/p/369252839), [知乎-无需风格图像的风格迁移](https://zhuanlan.zhihu.com/p/371101640)
+
 
 <!-- <img align="right" width="40" height="40" src="images/eccv-2020.png"> -->
 
-- **Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by *ECCV 2020*.** [paper](https://arxiv.org/abs/2007.07247), [code](https://github.com/hou-yz/MVDet), [知乎](https://zhuanlan.zhihu.com/p/196771711), [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn).
+- Our paper _"[Multiview Detection with Feature Perspective Transformation](/publication/2020-eccv2020-mvdet)"_ is accepted by *ECCV 2020*. 
+[paper](https://arxiv.org/abs/2007.07247), [code](https://github.com/hou-yz/MVDet), [知乎](https://zhuanlan.zhihu.com/p/196771711), [MultiviewX dataset download](https://1drv.ms/u/s!AtzsQybTubHfgP9BJt2g7R_Ku4X3Pg?e=GFGeVn).
 
 
 <!-- <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg"> -->
 
-- Our paper _"[Learning to Structure an Image with Few Colors](/publication/2019-cvpr2020-colorcnn)"_ is accepted by *CVPR 2020*. [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Learning_to_Structure_an_Image_With_Few_Colors_CVPR_2020_paper.pdf), [code](https://github.com/hou-yz/color_distillation), [知乎](https://zhuanlan.zhihu.com/p/148160812).
+- Our paper _"[Learning to Structure an Image with Few Colors](/publication/2019-cvpr2020-colorcnn)"_ is accepted by *CVPR 2020*. 
+[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Learning_to_Structure_an_Image_With_Few_Colors_CVPR_2020_paper.pdf), [code](https://github.com/hou-yz/color_distillation), [知乎](https://zhuanlan.zhihu.com/p/148160812).
 
 
 <!-- <img align="right" width="120" height="120" src="images/TLML_intro_narrow.png"> -->
 
-- A new paper "[Locality aware appearance metric for multi-target multi-camera tracking](/publication/2019-arxiv-mtmc-metric)" is released on *arXiv*. [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
+- A new paper "[Locality aware appearance metric for multi-target multi-camera tracking](/publication/2019-arxiv-mtmc-metric)" is released on *arXiv*. 
+[paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local), [知乎](https://zhuanlan.zhihu.com/p/96999382).
 
 
 <!-- <img align="right" width="120" height="60" src="images/CVPR_Logo_Horz2_web.jpg">
