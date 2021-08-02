@@ -1,0 +1,22 @@
+---
+title: "Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation)"
+collection: publications
+permalink: /publication/2021-acmmm2021-mvdetr
+author: '**Yunzhong Hou**, Liang Zheng'
+excerpt: ''
+date: 2021-07-04
+venue: 'ACM Multimedia'
+---
+**Yunzhong Hou** and Liang Zheng
+
+
+---
+citation:
+```
+@inproceedings{hou2021multiview,
+  title={Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation)},
+  author={Hou, Yunzhong and Zheng, Liang},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia (MM ’21)},
+  year={2021}
+}
+```
