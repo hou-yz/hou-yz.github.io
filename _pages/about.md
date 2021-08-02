@@ -20,8 +20,12 @@ His current research interest lies in computer vision and deep learning. More sp
 News
 ======
 
-- **Our paper _"[Visualizing Adapted Knowledge in Domain Transfer](/publication/2020-cvpr2021-sfit)"_ is accepted by *CVPR 2021*.** 
-[paper](https://arxiv.org/abs/2104.10602), [code](https://github.com/hou-yz/DA_visualization), [知乎-UDA可视化](https://zhuanlan.zhihu.com/p/369252839), [知乎-无需风格图像的风格迁移](https://zhuanlan.zhihu.com/p/371101640)
+- Our paper _"Ranking Models, Unlabeled"_ is accepted by *ICCV 2021*.
+
+- Our paper _"Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation)"_ is accepted by *ACM MM 2021*.
+
+- Our paper _"[Visualizing Adapted Knowledge in Domain Transfer](/publication/2020-cvpr2021-sfit)"_ is accepted by *CVPR 2021*.
+[paper](https://arxiv.org/abs/2104.10602), [code](https://github.com/hou-yz/DA_visualization), [知乎-UDA可视化](https://zhuanlan.zhihu.com/p/369252839), [知乎-无需风格图像的风格迁移](https://zhuanlan.zhihu.com/p/371101640).
 
 
 <!-- <img align="right" width="40" height="40" src="images/eccv-2020.png"> -->
