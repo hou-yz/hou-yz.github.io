@@ -11,18 +11,18 @@ redirect_from:
 About
 ======
 Yunzhong Hou (侯云钟) is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
-Before that, he received his bachelor degree in electronic engineering from Tsinghua University in 2018. 
+Before that, he received his bachelor's degree in electronic engineering from Tsinghua University in 2018. 
 He currently servers as a conference reviewer for CVPR, ICCV, ACM MM, IJCAI; and a journal reviewer for IEEE TPAMI, TIP, TMM, TCSVT.
 
-His current research interest lies in computer vision and deep learning. More specifically, it includes domain adaptation, multiview detection and tracking, generative adversial networks, and reinforcement learning.
+His current research interest lies in computer vision and deep learning. More specifically, it includes domain adaptation, multiview detection and tracking, generative adversarial networks, and semi-supervised learning.
 
 
 News
 ======
 
-- **Our paper _"[Ranking Models, Unlabeled](/publication/2021-iccv2021-ranking)"_ is accepted by *ICCV 2021*.**
+- **Our paper _"[Ranking Models in Unlabeled New Environments](/publication/2021-iccv2021-ranking)"_ is accepted by *ICCV 2021*.** [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Ranking_Models_in_Unlabeled_New_Environments_ICCV_2021_paper.pdf), [code](https://github.com/sxzrt/Proxy-Set)
 
-- **Our paper _"[Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation)](/publication/2021-acmmm2021-mvdetr)"_ is accepted by *ACM MM 2021*.**
+- **Our paper _"[Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation)](/publication/2021-acmmm2021-mvdetr)"_ is accepted by *ACM MM 2021*.** [paper](https://arxiv.org/abs/2108.05888), [code](https://github.com/hou-yz/DA_visualization)
 
 - Our paper _"[Visualizing Adapted Knowledge in Domain Transfer](/publication/2020-cvpr2021-sfit)"_ is accepted by *CVPR 2021*.
 [paper](https://arxiv.org/abs/2104.10602), [code](https://github.com/hou-yz/DA_visualization), [知乎-UDA可视化](https://zhuanlan.zhihu.com/p/369252839), [知乎-无需风格图像的风格迁移](https://zhuanlan.zhihu.com/p/371101640).
