@@ -12,7 +12,7 @@ venue: 'ACM Multimedia'
 
 [paper](https://arxiv.org/abs/2108.05888)
 
-[code](https://github.com/hou-yz/DA_visualization)
+[code](https://github.com/hou-yz/MVDeTr)
 
 ---
 citation:
