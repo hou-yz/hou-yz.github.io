@@ -16,9 +16,12 @@ He currently servers as a conference reviewer for CVPR, ICCV, ACM MM, IJCAI; and
 
 His current research interest lies in computer vision and deep learning. More specifically, it includes domain adaptation, multiview detection and tracking, generative adversarial networks, and semi-supervised learning.
 
+For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8szRMzVSKg6dYy-Q?e=sFSths).
 
 News
 ======
+
+- **Our paper _"Adapting Affinity in Association Improves Multi-Target Multi-Camera Tracking"_ is accepted by *IEEE TIP*.** 
 
 - **Our paper _"[Ranking Models in Unlabeled New Environments](/publication/2021-iccv2021-ranking)"_ is accepted by *ICCV 2021*.** [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Ranking_Models_in_Unlabeled_New_Environments_ICCV_2021_paper.pdf), [code](https://github.com/sxzrt/Proxy-Set)
 
@@ -64,6 +67,6 @@ News
 
 
 
-For more info
+Contact
 ------
 Please contact me via [e-mail](mailto:yunzhong.hou@anu.edu.au).
