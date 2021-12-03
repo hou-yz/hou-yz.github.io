@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunzhong Hou"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yunzhong Hou"
 description              : &description "PhD student @ ANU"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "https://www.linkedin.com/in/yunzhong-hou-693794103/"
+  linkedin         : "https://www.linkedin.com/in/yunzhong-hou-693794103/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
