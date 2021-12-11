@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Affinity for Associations in Multi-Target Multi-Camera Tracking"
 collection: publications
-permalink: /publication/2021-tip-ranking
+permalink: /publication/2021-tip-mtmc
 author: '**Yunzhong Hou**, Zhongdao Wang, Shengjin Wang, and Liang Zheng'
 excerpt: ''
 date: 2021-12-01
