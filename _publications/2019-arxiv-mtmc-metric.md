@@ -3,6 +3,7 @@ title: "Locality Aware Appearance Metric for Multi-Target Multi-Camera Tracking"
 collection: publications
 permalink: /publication/2019-arxiv-mtmc-metric
 author: '**Yunzhong Hou**, Zhongdao Wang, Shengjin Wang, and Liang Zheng'
+excerpt: ''
 # excerpt: 'We spot an inherent mismatch between local matching in multi-target multi-camera tracking (MTMCT) and global re-identification (re-ID) appearance feature. In fact, since targets move continuously, MTMCT only needs to match with a local region. To fit the local matching procedure in MTMCT, in this work, we introduce locality aware appearance metric (LAAM), that can be learned on top of several globally learned re-ID appearance features.'
 date: 2019-11-27
 venue: 'arXiv'
