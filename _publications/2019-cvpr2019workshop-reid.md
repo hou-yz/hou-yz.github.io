@@ -3,7 +3,7 @@ title: "Vehicle Re-Identification with Location and Time Stamps"
 collection: publications
 permalink: /publication/2019-cvpr2019workshop-reid
 author: 'Kai Lv, Weijian Deng, **Yunzhong Hou**, Heming Du, Hao Sheng, Jianbin Jiao, Liang Zheng'
-excerpt: 'In order to identify the similar looking vehicles, location and time stamps are used as cues in addition to appearance.'
+# excerpt: 'In order to identify the similar looking vehicles, location and time stamps are used as cues in addition to appearance.'
 date: 2019-05-15
 venue: 'CVPR workshop on AI-City'
 # paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf'

@@ -3,7 +3,7 @@ title: "A Locality Aware City-Scale Multi-Camera Vehicle Tracking System"
 collection: publications
 permalink: /publication/2019-cvpr2019workshop-tracking
 author: '**Yunzhong Hou**, Heming Du, and Liang Zheng'
-excerpt: 'Vehicle tracking across multiple cameras can be difficult for modern tracking systems. In order to avoid difficulties in a large scenario, we keep the tracking procedure within a minimal range. '
+# excerpt: 'Vehicle tracking across multiple cameras can be difficult for modern tracking systems. In order to avoid difficulties in a large scenario, we keep the tracking procedure within a minimal range. '
 date: 2019-05-15
 venue: 'CVPR workshop on AI-City'
 # paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Hou_A_Locality_Aware_City-Scale_Multi-Camera_Vehicle_Tracking_System_CVPRW_2019_paper.pdf'

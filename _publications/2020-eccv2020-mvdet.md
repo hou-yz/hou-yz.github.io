@@ -3,7 +3,7 @@ title: "Multiview Detection with Feature Perspective Transformation"
 collection: publications
 permalink: /publication/2020-eccv2020-mvdet
 author: '**Yunzhong Hou**, Liang Zheng, Stephen Gould'
-excerpt: 'We incorporate multiple camera views for pedestrian detection in heavy occluded scenes. Specifically, we propose an anchor-free fully convolutional multiview detector, MVDet, that relies on feature map perspective transformation. In addition, we create a novel synthetic dataset, MultiviewX, for additional evaluation.'
+# excerpt: 'We incorporate multiple camera views for pedestrian detection in heavy occluded scenes. Specifically, we propose an anchor-free fully convolutional multiview detector, MVDet, that relies on feature map perspective transformation. In addition, we create a novel synthetic dataset, MultiviewX, for additional evaluation.'
 date: 2020-07-14
 venue: 'ECCV'
 ---

@@ -3,7 +3,7 @@ title: "Learning to Structure an Image with Few Colors"
 collection: publications
 permalink: /publication/2019-cvpr2020-colorcnn
 author: '**Yunzhong Hou**, Liang Zheng, Stephen Gould'
-excerpt: 'We investigate compression for machine perception, the philosophy of which iscomparable to compression for human perception. Specifically, we restrict the color space to an extremely small size (only 1-bit image color), and then propose a CNN network to preserve the informative sturctures in an image. As opposed to the traditional clustering formulation, the proposed architecture, ColorCNN, formulates the color quantization problem as per-pixel classification. ColorCNN can be trained together with a classifier in an end-to-end manner. The quantization result from ColorCNN can achieve 82.1% accuracy with only 1-bit color on CIFAR-10, outperform the traditional quantization methods by a large margin. '
+# excerpt: 'We investigate compression for machine perception, the philosophy of which iscomparable to compression for human perception. Specifically, we restrict the color space to an extremely small size (only 1-bit image color), and then propose a CNN network to preserve the informative sturctures in an image. As opposed to the traditional clustering formulation, the proposed architecture, ColorCNN, formulates the color quantization problem as per-pixel classification. ColorCNN can be trained together with a classifier in an end-to-end manner. The quantization result from ColorCNN can achieve 82.1% accuracy with only 1-bit color on CIFAR-10, outperform the traditional quantization methods by a large margin. '
 date: 2020-02-27
 venue: 'CVPR'
 # paperurl: 'https://arxiv.org/abs/1911.12037'
