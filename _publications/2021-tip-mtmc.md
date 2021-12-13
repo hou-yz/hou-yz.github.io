@@ -12,8 +12,6 @@ venue: 'IEEE Transactions on Image Processing (TIP)'
 
 [paper (to appear)]()
 
-[code](https://github.com/hou-yz/DeepCC-local)
-
 ---
 citation:
 ```
