@@ -21,7 +21,7 @@ For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8s
 News
 ======
 
-- 2021.12   **Our paper _"[Adaptive Affinity for Associations in Multi-Target Multi-Camera Tracking](/publication/2021-tip-mtmc)"_ is accepted by *IEEE TIP*.** 
+- 2021.12   **Our paper _"[Adaptive Affinity for Associations in Multi-Target Multi-Camera Tracking](/publication/2022-tip-mtmc)"_ is accepted by *IEEE TIP*.** [paper](https://arxiv.org/abs/1911.12037.pdf), [code](https://github.com/hou-yz/DeepCC-local)
 
 - 2021.07 Our paper _"[Ranking Models in Unlabeled New Environments](/publication/2021-iccv2021-ranking)"_ is accepted by *ICCV 2021*. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Ranking_Models_in_Unlabeled_New_Environments_ICCV_2021_paper.pdf), [code](https://github.com/sxzrt/Proxy-Set)
 
