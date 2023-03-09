@@ -23,7 +23,7 @@ News
 
 - 2023.04 I'll be joining ANU as a research fellow. Excited!
 
-- 2022.07-2022.10 Internship at Amazon Web Service as a research scientist on vision-language tasks. Hello Bay Area!
+- 2022.07-2022.10 Internship at Amazon Web Services as a research scientist on vision-language tasks. Hello Bay Area!
 
 - 2021.12   **Our paper _"[Adaptive Affinity for Associations in Multi-Target Multi-Camera Tracking](/publication/2022-tip-mtmc)"_ is accepted by *IEEE TIP*.** [paper](https://ieeexplore.ieee.org/iel7/83/4358840/09646485.pdf), [code](https://github.com/hou-yz/DeepCC-local)
 
