@@ -21,6 +21,10 @@ For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8s
 News
 ======
 
+- 2023.04 I'll be joining ANU as a research fellow. Excited!
+
+- 2022.07-2022.10 Internship at Amazon Web Service as a research scientist on vision-language tasks. Hello Bay Area!
+
 - 2021.12   **Our paper _"[Adaptive Affinity for Associations in Multi-Target Multi-Camera Tracking](/publication/2022-tip-mtmc)"_ is accepted by *IEEE TIP*.** [paper](https://ieeexplore.ieee.org/iel7/83/4358840/09646485.pdf), [code](https://github.com/hou-yz/DeepCC-local)
 
 - 2021.07 Our paper _"[Ranking Models in Unlabeled New Environments](/publication/2021-iccv2021-ranking)"_ is accepted by *ICCV 2021*. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Ranking_Models_in_Unlabeled_New_Environments_ICCV_2021_paper.pdf), [code](https://github.com/sxzrt/Proxy-Set)
