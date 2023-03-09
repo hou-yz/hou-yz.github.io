@@ -10,11 +10,11 @@ redirect_from:
 
 About
 ======
-Yunzhong Hou (侯云钟) is a PhD student in Computer Science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/) and [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). 
+Yunzhong Hou (侯云钟) is a PhD student in computer science at Australian National University. Currently, he works under the supervision of [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), and [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/). 
 Before that, he received his bachelor's degree in electronic engineering from Tsinghua University in 2018. 
-He currently serves as a conference reviewer for CVPR, ICCV, ACM MM, IJCAI, ACCV; and a journal reviewer for TPAMI, TIP, TMM, TCSVT, TOMM, PR.
+He serves as a conference reviewer for CVPR, ICCV, ACM MM, IJCAI, etc; and a journal reviewer for TPAMI, TIP, TMM, TCSVT, etc.
 
-His current research interest lies in computer vision and deep learning. More specifically, it includes semi-supervised learning, semantic segmentation, multiview detection and tracking, domain adaptation, and generative models.
+His current research interest lies in computer vision and deep learning. More specifically, it includes multiview detection and tracking, domain adaptation, generative models, and efficient AI. 
 
 For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8szRMzVSKg6dYy-Q?e=sFSths).
 
