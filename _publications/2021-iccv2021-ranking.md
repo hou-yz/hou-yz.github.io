@@ -20,7 +20,7 @@ citation:
 @inproceedings{sun2021ranking,
   title={Ranking Models in Unlabeled New Environments},
   author={Sun, Xiaoxiao and Hou, Yunzhong and Deng, Weijian, and Li, Hongdong and Zheng, Liang},
-  booktitle={ICCV 2021},
+  booktitle={ICCV},
   year={2021}
 }
 ```

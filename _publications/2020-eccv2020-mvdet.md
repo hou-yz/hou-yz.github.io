@@ -36,7 +36,7 @@ citation:
 @inproceedings{hou2020multiview,
   title={Multiview Detection with Feature Perspective Transformation},
   author={Hou, Yunzhong and Zheng, Liang and Gould, Stephen},
-  booktitle={ECCV},
+  booktitle={ECCV 2020},
   year={2020}
 }
 ```
