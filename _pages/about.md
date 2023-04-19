@@ -21,7 +21,7 @@ For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8s
 News
 ======
 
-- *2023.04*   **I'll be joining ANU as a research fellow. Excited!**
+- *2023.04*   **Joined as a research fellow at ANU, working with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Excited!**
 
 - *2023.03*   Check out our latest research _"[Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances]()"_ on arXiv. [paper](https://arxiv.org/abs/2303.06145), [code](https://github.com/hou-yz/MVSelect)
 
