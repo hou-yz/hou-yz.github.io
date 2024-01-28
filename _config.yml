@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yunzhong Hou"
 title_separator          : "-"
 name                     : &name "Yunzhong Hou"
-description              : &description "PhD student @ ANU"
+description              : &description "Research Fellow @ ANU"
 url                      : https://hou-yz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hou-yz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunzhong Hou"
   avatar           : "id_jervis_bay.jpeg"
-  bio              : "a PhD student in Computer Science @ ANU"
+  bio              : "Research Fellow @ ANU"
   location         : "Canberra, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

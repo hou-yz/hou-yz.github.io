@@ -10,22 +10,27 @@ redirect_from:
 
 About
 ======
-Yunzhong Hou (侯云钟) is a research fellow at Australian National University, working with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Before that, he studied as a PhD student under the supervision of [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), and [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/) at Australian National University. 
-He received his bachelor's degree in electronic engineering from Tsinghua University in 2018. 
-He serves as a conference reviewer for CVPR, ICCV, ACM MM, IJCAI, etc; and a journal reviewer for TPAMI, TIP, TMM, TCSVT, etc.
+Yunzhong Hou (侯云钟) is a dedicated research fellow at the Australian National University, collaborating closely with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). He completed his PhD at the same university in 2023, under the esteemed guidance of [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), and [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/). Yunzhong's academic journey began at Tsinghua University, where he earned a bachelor's degree in electronic engineering in 2018.
 
-His current research interest lies in computer vision and deep learning. More specifically, it includes multiview detection and tracking, domain adaptation, generative models, and efficient AI. 
+Specializing in computer vision and deep learning, his current research interest lies in AI-based drone videography, camera control and optimizations for embodied agents, and multi-view detection and tracking. Yunzhong is actively involved in the academic community, contributing as a conference reviewer for prominent conferences such as CVPR, ECCV, ICCV, NeurIPS, ACM MM, and IJCAI. He also serves as a journal reviewer for respected publications like TPAMI, TIP, TMM, and TCSVT, and an area chair for ICASSP and ACM MM.
+
 
 For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8szRMzVSKg6dYy-Q?e=sFSths).
 
 News
 ======
 
-- *2023.06*   **I was named outstanding reviewer for CVPR 2023!**
+- *2023.12* **Our grant proposal _"Privacy-Percerving Perception for Robotics"_ is awarded by the [HMI seed grant](https://services.anu.edu.au/research-support/funding-opportunities/computing-for-social-good-seed-grants-2023) for 25,000 AUD! Big thank you to [Dylan](https://sites.google.com/view/djcampbell), [Rahul](https://rahulsho.me/), and [Mike](https://michaelrandallbarnes.com/about)!**
 
-- *2023.04*   **Joined as a research fellow at ANU, working with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Excited!**
+- *2023.12* **Check out our latest research on camera layout optimization _"Optimizing Camera Configurations for Multi-View Pedestrian Detection"_. [arxiv](https://arxiv.org/abs/2312.02144)**
 
-- *2023.03*   Check out our latest research _"[Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances]()"_ on arXiv. [paper](https://arxiv.org/abs/2303.06145), [code](https://github.com/hou-yz/MVSelect)
+- *2023.11* Our paper _"View-Coherent Correlation Consistency for Semi-Supervised Semantic Segmentation"_ is accepted by *Pattern recognition*. [paper](https://www.sciencedirect.com/science/article/pii/S0031320323007860).
+- 
+- *2023.06*   I was named outstanding reviewer for CVPR 2023!
+
+- *2023.04*   Joined as a research fellow at ANU, working with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Excited!
+
+- *2023.03*   Check out our latest research _"Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances"_ on arXiv. [paper](https://arxiv.org/abs/2303.06145), [code](https://github.com/hou-yz/MVSelect)
 
 - *2022.07-2022.10*   Internship at Amazon Web Services as a research scientist on vision-language tasks. Hello Bay Area!
 
