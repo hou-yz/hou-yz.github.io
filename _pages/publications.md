@@ -8,6 +8,11 @@ author_profile: true
 
 <!-- Research Papers
 ====== -->
+<a target="_blank" href="https://arxiv.org/abs/2303.06145">**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**<a/><br>
+**Yunzhong Hou**, Stephen Gould, Liang Zheng,<br>
+<em>IEEE Transaction on Image Processing (IEEE TIP), 2024<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2303.06145"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/MVSelect"><button id="touch">Code</button></a>
+
 <a target="_blank" href="https://ieeexplore.ieee.org/document/10596087">**Scalable Deep Color Quantization: a Cluster Imitation Approach**<a/><br>
 **Yunzhong Hou**, Stephen Gould, Liang Zheng,<br>
 <em>IEEE Transaction on Image Processing (IEEE TIP), 2024<em/><br>
