@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yunzhong Hou"
   avatar           : "id_jervis_bay.jpeg"
-  bio              : "Research Fellow @ ANU"
+  bio              : "Research Fellow @ ANU\n AI photography and videography, 3D Vision, AIGC, embodied AI"
   location         : "Canberra, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pFD8DoIAAAAJ&hl=en"
   email            : "yunzhong.hou@anu.edu.au"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yunzhong-Hou-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yunzhong-hou-693794103"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6916-4789"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
