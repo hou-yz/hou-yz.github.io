@@ -17,6 +17,8 @@ Specializing in computer vision and deep learning, his current research interest
 
 For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8szRMzVSKg6dYy-Q?e=sFSths).
 
+-----------------
+
 News
 ======
 
@@ -68,11 +70,13 @@ News
 **2019.03**  &emsp; Our paper "[Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step Pruning](/publication/2018-infocom2019workshop-pruning)" is accepted by *Infocom workshop on IECOO 2019*. [paper](https://arxiv.org/abs/1903.03472.pdf), [code](https://github.com/hou-yz/pytorch-pruning-2step). -->
 
 
+-----------------
+
 Research Papers
 ======
 <a target="_blank" href="https://arxiv.org/abs/2303.06145">**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**<a/><br>
 **Yunzhong Hou**, Stephen Gould, Liang Zheng,<br>
-<em>IEEE Transaction on Image Processing (IEEE TIP), 2024<em/><br>
+<em>Conference on Computer Vision and Pattern Recognition (CVPR), 2024<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2303.06145"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/MVSelect"><button id="touch">Code</button></a>
 
 <a target="_blank" href="https://ieeexplore.ieee.org/document/10596087">**Scalable Deep Color Quantization: a Cluster Imitation Approach**<a/><br>
