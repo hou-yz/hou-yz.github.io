@@ -22,6 +22,8 @@ For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8s
 News
 ======
 
+**2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [code](https://github.com/hou-yz/dvgformer).
+
 **2024.10** &emsp; I am serving as an Area Chair for ACM Multimedia 2024 [[full program]](https://2024.acmmm.org/files/MM24-Full_Program.pdf). An honor to serve as Session Chair and host Oral Session 13 - Machine Learning for Multimedia with [Prof. Chang Xu](http://changxu.xyz/). Excited to present our latest work on AI drone videography at the [ACM MM Area Chair Workshop](https://sites.google.com/view/mm24acworkshop/) for ACM MM 2024.
 
 **2024.07** &emsp; Glad to present our latest work on AI drone videography at the International Research Workshop Data Science and AI & Robotics (DSAIR24) at University of Canberra following the invitation from [Prof. Shuangzhe Liu](https://researchprofiles.canberra.edu.au/en/persons/shuangzhe-liu).
