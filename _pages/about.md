@@ -22,7 +22,7 @@ For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8s
 News
 ======
 
-**2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [code](https://github.com/hou-yz/dvgformer).
+**2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [project page](https://dvgformer.github.io/), [code](https://github.com/hou-yz/dvgformer), [Twitter](https://x.com/YunzhongH/status/1869147797746008222).
 
 **2024.10** &emsp; I am serving as an Area Chair for ACM Multimedia 2024 [[full program]](https://2024.acmmm.org/files/MM24-Full_Program.pdf). An honor to serve as Session Chair and host Oral Session 13 - Machine Learning for Multimedia with [Prof. Chang Xu](http://changxu.xyz/). Excited to present our latest work on AI drone videography at the [ACM MM Area Chair Workshop](https://sites.google.com/view/mm24acworkshop/) for ACM MM 2024.
 
@@ -79,7 +79,7 @@ Research Papers
 <a target="_blank" href="https://dvgformer.github.io/">**Learning Camera Movement Control from Real-World Drone Videos**<a/><br>
 **Yunzhong Hou**, Liang Zheng, Philip Torr<br>
 <em>arXiv preprint, 2024<em/><br>
-<a target="_blank" href="https://arxiv.org/abs/2412.09620"><button id="touch">PDF</button></a> <a target="_blank" href="https://dvgformer.github.io/"><button id="touch">Project page</button></a> <a target="_blank" href="https://github.com/hou-yz/dvgformer"><button id="touch">Code</button></a>
+<a target="_blank" href="https://arxiv.org/abs/2412.09620"><button id="touch">PDF</button></a> <a target="_blank" href="https://dvgformer.github.io/"><button id="touch">Project page</button></a> <a target="_blank" href="https://github.com/hou-yz/dvgformer"><button id="touch">Code</button></a> <a target="_blank" href="https://x.com/YunzhongH/status/1869147797746008222"><button id="touch">Twitter</button></a> 
 
 <a target="_blank" href="https://arxiv.org/abs/2303.06145">**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**<a/><br>
 **Yunzhong Hou**, Stephen Gould, Liang Zheng<br>
