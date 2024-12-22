@@ -76,23 +76,28 @@ News
 
 Research Papers
 ======
+<a target="_blank" href="https://dvgformer.github.io/">**Learning Camera Movement Control from Real-World Drone Videos**<a/><br>
+**Yunzhong Hou**, Liang Zheng, Philip Torr<br>
+<em>arXiv preprint, 2024<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2412.09620"><button id="touch">PDF</button></a> <a target="_blank" href="https://dvgformer.github.io/"><button id="touch">Project page</button></a> <a target="_blank" href="https://github.com/hou-yz/dvgformer"><button id="touch">Code</button></a>
+
 <a target="_blank" href="https://arxiv.org/abs/2303.06145">**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**<a/><br>
-**Yunzhong Hou**, Stephen Gould, Liang Zheng,<br>
+**Yunzhong Hou**, Stephen Gould, Liang Zheng<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2024<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2303.06145"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/MVSelect"><button id="touch">Code</button></a>
 
 <a target="_blank" href="https://ieeexplore.ieee.org/document/10596087">**Scalable Deep Color Quantization: a Cluster Imitation Approach**<a/><br>
-**Yunzhong Hou**, Stephen Gould, Liang Zheng,<br>
+**Yunzhong Hou**, Stephen Gould, Liang Zheng<br>
 <em>IEEE Transaction on Image Processing (IEEE TIP), 2024<em/><br>
 <a target="_blank" href="https://ieeexplore.ieee.org/document/10596087"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/color_distillation_clustering"><button id="touch">Code</button></a>
 
 <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0031320323007860">**View-coherent correlation consistency for semi-supervised semantic segmentation**<a/><br>
-**Yunzhong Hou**, Stephen Gould, Liang Zheng,<br>
+**Yunzhong Hou**, Stephen Gould, Liang Zheng<br>
 <em>Pattern Recognition (PR), 2024<em/><br>
 <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0031320323007860"><button id="touch">PDF</button></a>
 
 <a target="_blank" href="https://arxiv.org/abs/2312.02144">**Optimizing Camera Configurations for Multi-View Pedestrian Detection**<a/><br>
-**Yunzhong Hou**, Xingjian Leng, Tom Gedeon, Liang Zheng,<br>
+**Yunzhong Hou**, Xingjian Leng, Tom Gedeon, Liang Zheng<br>
 <em>arXiv preprint, 2023<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2312.02144"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/MVconfig"><button id="touch">Code</button></a>
 
@@ -117,12 +122,12 @@ Xiaoxiao Sun, **Yunzhong Hou**, Weijian Deng, Hongdong Li, Liang Zheng<br>
 <a target="_blank" href="https://arxiv.org/abs/2104.10602"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/DA_visualization"><button id="touch">Code</button></a>
 
 <a target="_blank" href="https://arxiv.org/abs/2007.07247">**Multiview Pedestrian Detection with Feature Perspective Transformation**<a/><br>
-**Yunzhong Hou**, Liang Zheng,  Stephen Gould<br>
+**Yunzhong Hou**, Liang Zheng, Stephen Gould<br>
 <em>European Conference on Computer Vision (ECCV), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2007.07247"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/MVDet"><button id="touch">Code</button></a>
 
 <a target="_blank" href="https://arxiv.org/abs/2003.07848">**Learning to Structure an Image with Few Colors**<a/><br>
-**Yunzhong Hou**, Liang Zheng,  Stephen Gould<br>
+**Yunzhong Hou**, Liang Zheng, Stephen Gould<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2003.07848"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/hou-yz/color_distillation"><button id="touch">Code</button></a>
 
