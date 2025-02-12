@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-Yunzhong Hou (侯云钟) is a research fellow at the Australian National University, collaborating closely with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Prior to that, he completed his PhD at the same university in 2023, under the esteemed guidance of [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), and [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/). He earned a bachelor's degree in electronic engineering from Tsinghua University in 2018.
+Yunzhong Hou (侯云钟) is a research fellow at the Australian National University, collaborating closely with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Prior to that, he completed his PhD at the same university in 2023, under the guidance of [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), and [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/). He earned a bachelor's degree in electronic engineering from Tsinghua University in 2018.
 
 Specializing in computer vision and deep learning, his current research interest lies in AI videography and photography, embodied agents, and 3D understanding. Yunzhong is actively involved in the academic community, contributing as a conference reviewer for prominent conferences such as CVPR, ECCV, ICCV, NeurIPS, ACM MM, and IJCAI. He also serves as a journal reviewer for respected publications like TPAMI, TIP, TMM, and TCSVT, and an area chair for ICASSP and ACM MM.
 
@@ -22,6 +22,8 @@ For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8s
 News
 ======
 
+**2025.01** &emsp; Honored to be invited to the Embassy of the People's Republic of China in the Commonwealth of Australia for a talk on _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_.
+
 **2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [project page](https://dvgformer.github.io/), [code](https://github.com/hou-yz/dvgformer), [Twitter](https://x.com/YunzhongH/status/1869147797746008222).
 
 **2024.10** &emsp; I am serving as an Area Chair for ACM Multimedia 2024 [[full program]](https://2024.acmmm.org/files/MM24-Full_Program.pdf). An honor to serve as Session Chair and host Oral Session 13 - Machine Learning for Multimedia with [Prof. Chang Xu](http://changxu.xyz/). Excited to present our latest work on AI drone videography at the [ACM MM Area Chair Workshop](https://sites.google.com/view/mm24acworkshop/) for ACM MM 2024.
@@ -30,9 +32,9 @@ News
 
 **2024.05** &emsp; Our paper on color quantization and pixel art creation, _"[Scalable Deep Color Quantization: A Cluster Imitation Approach](https://ieeexplore.ieee.org/abstract/document/10596087)"_, is accepted by *IEEE Trans on Image Processing*. [paper](https://ieeexplore.ieee.org/abstract/document/10596087), [code](https://github.com/hou-yz/color_distillation_clustering).
 
-**2024.02** &emsp; Our paper on camera configuration optimizaiton, _"[Learning to Select Views for Efficient Multi-View Understanding](https://arxiv.org/abs/2303.06145)"_, is accepted by CVPR 2024. See you in Seattle! [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hou_Learning_to_Select_Views_for_Efficient_Multi-View_Understanding_CVPR_2024_paper.pdf), [code](https://github.com/hou-yz/MVSelect).
+<!-- **2024.02** &emsp; Our paper on camera configuration optimizaiton, _"[Learning to Select Views for Efficient Multi-View Understanding](https://arxiv.org/abs/2303.06145)"_, is accepted by CVPR 2024. See you in Seattle! [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hou_Learning_to_Select_Views_for_Efficient_Multi-View_Understanding_CVPR_2024_paper.pdf), [code](https://github.com/hou-yz/MVSelect). -->
 
-**2023.12** &emsp; Our grant proposal _"Privacy-Percerving Perception for Robotics"_ is awarded by the [HMI seed grant](https://services.anu.edu.au/research-support/funding-opportunities/computing-for-social-good-seed-grants-2023) for 25,000 AUD! Big thank you to [Dylan](https://sites.google.com/view/djcampbell), [Rahul](https://rahulsho.me/), and [Mike](https://michaelrandallbarnes.com/about)!
+<!-- **2023.12** &emsp; Our grant proposal _"Privacy-Percerving Perception for Robotics"_ is awarded by the [HMI seed grant](https://services.anu.edu.au/research-support/funding-opportunities/computing-for-social-good-seed-grants-2023) for 25,000 AUD! Big thank you to [Dylan](https://sites.google.com/view/djcampbell), [Rahul](https://rahulsho.me/), and [Mike](https://michaelrandallbarnes.com/about)! -->
 
 <!-- **2023.12** &emsp; Check out our latest research on camera layout optimization _"[Optimizing Camera Configurations for Multi-View Pedestrian Detection](https://arxiv.org/abs/2312.02144)"_. [arxiv](https://arxiv.org/abs/2312.02144)
 
