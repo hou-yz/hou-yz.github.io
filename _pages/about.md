@@ -88,7 +88,7 @@ News
 **2019.06** &emsp; Won 3rd place out of 84 participants in vehicle re-identification in *CVPR 2019 AI-City Challenge*. [paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf), [code](https://github.com/hou-yz/open-reid-tracking).
 
 **2019.03**  &emsp; Our paper "[Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step Pruning](/publication/2018-infocom2019workshop-pruning)" is accepted by *Infocom workshop on IECOO 2019*. [paper](https://arxiv.org/abs/1903.03472.pdf), [code](https://github.com/hou-yz/pytorch-pruning-2step). 
-*
+
 </div>
 
 -----------------
