@@ -35,10 +35,8 @@ News
 **2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [project page](https://dvgformer.github.io/), [code](https://github.com/hou-yz/dvgformer), [Twitter](https://x.com/YunzhongH/status/1869147797746008222).
 
 
-<button onclick="document.getElementById('news-reveal').style.display = (document.getElementById('news-reveal').style.display === 'none' ? 'block' : 'none');">
-  Show News Archive
-</button>
-<div id="news-reveal" style="display:none; margin-top:1em;">
+<details>
+  <summary>Show News Archive</summary>
 
 **2024.10** &emsp; I am serving as an Area Chair for ACM Multimedia 2024 [[full program]](https://2024.acmmm.org/files/MM24-Full_Program.pdf). An honor to serve as Session Chair and host Oral Session 13 - Machine Learning for Multimedia with [Prof. Chang Xu](http://changxu.xyz/). Excited to present our latest work on AI drone videography at the [ACM MM Area Chair Workshop](https://sites.google.com/view/mm24acworkshop/) for ACM MM 2024.
 
@@ -89,7 +87,8 @@ News
 
 **2019.03**  &emsp; Our paper "[Improving Device-Edge Cooperative Inference of Deep Learning via 2-Step Pruning](/publication/2018-infocom2019workshop-pruning)" is accepted by *Infocom workshop on IECOO 2019*. [paper](https://arxiv.org/abs/1903.03472.pdf), [code](https://github.com/hou-yz/pytorch-pruning-2step). 
 
-</div>
+</details>
+
 
 -----------------
 
