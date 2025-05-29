@@ -42,7 +42,7 @@ News
 
 **2024.09** &emsp; Honored to serve as Area Chair for ICASSP 2025.
 
-**2024.07** &emsp; Glad to present our latest work on AI drone videography at the International Research Workshop Data Science and AI & Robotics (DSAIR24) at University of Canberra following the invitation from [Prof. Shuangzhe Liu](https://researchprofiles.canberra.edu.au/en/persons/shuangzhe-liu). -->
+**2024.07** &emsp; Glad to present our latest work on AI drone videography at the International Research Workshop Data Science and AI & Robotics (DSAIR24) at University of Canberra following the invitation from [Prof. Shuangzhe Liu](https://researchprofiles.canberra.edu.au/en/persons/shuangzhe-liu).
 
 **2024.05** &emsp; Our paper on color quantization and pixel art creation, _"[Scalable Deep Color Quantization: A Cluster Imitation Approach](https://ieeexplore.ieee.org/abstract/document/10596087)"_, is accepted by *IEEE Trans on Image Processing*. [paper](https://ieeexplore.ieee.org/abstract/document/10596087), [code](https://github.com/hou-yz/color_distillation_clustering).
 
