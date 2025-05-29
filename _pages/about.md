@@ -14,7 +14,7 @@ Yunzhong Hou (侯云钟) is a research fellow at the Australian National Univers
 Specializing in computer vision and deep learning, his current research interest lies in AI videography and photography, embodied and LLM agents, and 3D understanding and generation. Yunzhong is actively involved in the academic community, contributing as a conference reviewer for CVPR, ECCV, ICCV, NeurIPS, AAAI, and ACM MM; and as a journal reviewer for IEEE TPAMI, IEEE TIP, and Nature Communications. He also serves as as an area chair for ICASSP and ACM MM; and as the organizing committee for the WWW 2025 workshop on Multimedia Object Re-ID (MORE'25). 
 
 
-For more details, please find his CV [here](https://1drv.ms/b/s!AtzsQybTubHfhI8szRMzVSKg6dYy-Q?e=sFSths).
+For more details, please find his CV [here](/files/cv.pdf).
 
 -----------------
 
