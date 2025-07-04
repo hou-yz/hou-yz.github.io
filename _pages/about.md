@@ -20,6 +20,7 @@ For more details, please find his CV [here](/files/cv.pdf).
 
 News
 ======
+**2025.07** &emsp; Invited talk at Monash University "From Aggregation to Planning: a Study on Camera Views", hosted by [Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/). 
 
 **2025.06** &emsp; Two papers accepted to ICCV 2025! Big congrats to [@Xingjian Leng](https://scholar.google.com/citations?user=GQzvqS4AAAAJ) and [@Yuwei Yang](https://scholar.google.com/citations?user=UZm4CQUAAAAJ). 
 
@@ -31,11 +32,12 @@ News
 
 <!-- **2025.01** &emsp; Honored to be invited to the Embassy of the People's Republic of China in the Commonwealth of Australia for a talk on _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_. -->
 
+<details markdown="1">
+  <summary>Show News Archive</summary>
+
 **2024.12** &emsp; Happy to announce our WWW 2025 (the ACM Web Conference) workshop on Multimedia Object Re-ID (MORE'25), where I'm serving as the organizing team. Open to submissions for up to four pages. [homepage](https://www.zdzheng.xyz/MORE2025/), [submission site](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/MORE).
 
 
-<details markdown="1">
-  <summary>Show News Archive</summary>
 
 **2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [project page](https://dvgformer.github.io/), [code](https://github.com/hou-yz/dvgformer), [Twitter](https://x.com/YunzhongH/status/1869147797746008222).
 
