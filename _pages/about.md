@@ -9,9 +9,9 @@ redirect_from:
 
 About
 ======
-Yunzhong Hou (侯云钟) is a research fellow at the Australian National University, collaborating closely with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/#top) and [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). Prior to that, he completed his PhD at the same university in 2023, under the guidance of [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), and [Prof. Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/). He earned a bachelor's degree in electronic engineering from Tsinghua University in 2018.
+Yunzhong Hou (侯云钟) is a research fellow at the Australian National University (ANU). Prior to that, he completed his PhD in Computer Science and Engineering from ANU in 2023 under the guidance of [Prof. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/), and  his bachelor's degree in electronic engineering from Tsinghua University in 2018.
 
-Specializing in computer vision and deep learning, his current research interest lies in AI videography and photography, embodied and LLM agents, and 3D understanding and generation. Yunzhong is actively involved in the academic community, contributing as a conference reviewer for CVPR, ECCV, ICCV, NeurIPS, AAAI, and ACM MM; and as a journal reviewer for IEEE TPAMI, IEEE TIP, and Nature Communications. He also serves as as an area chair for ICASSP and ACM MM; and as the organizing committee for the WWW 2025 workshop on Multimedia Object Re-ID (MORE'25). 
+Specializing in computer vision and deep learning, his current research interest lies in AI videography and photography, embodied and LLM agents, and 3D understanding and generation. Yunzhong is actively involved in the academic community, contributing as a conference reviewer for CVPR, ECCV, ICCV, NeurIPS, AAAI, and ACM MM; and as a journal reviewer for IEEE TPAMI, IEEE TIP, and Nature Communications. He also serves as an area chair for ICASSP and ACM MM; and as the organizing committee for the WWW 2025 workshop on Multimedia Object Re-ID (MORE'25). 
 
 
 For more details, please find his CV [here](/files/cv.pdf).
@@ -21,21 +21,24 @@ For more details, please find his CV [here](/files/cv.pdf).
 News
 ======
 
+**2025.06** &emsp; Two papers accepted to ICCV 2025! Big congrats to [@Xingjian Leng](https://scholar.google.com/citations?user=GQzvqS4AAAAJ) and [@Yuwei Yang](https://scholar.google.com/citations?user=UZm4CQUAAAAJ). 
+
 **2025.05** &emsp; Named [outstanding reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) for CVPR 2025!
 
 **2025.04** &emsp; Very glad to have chaired the WWW 2025 (the ACM Web Conference) workshop on Multimedia Object Re-ID ([MORE'25 homepage](https://www.zdzheng.xyz/MORE2025/))! Thank you to all the speakers and those of you joined us online or offline! Special thanks to all the colaborators! Recorded talks available online. [youtube](https://youtu.be/BdPPlnyEX4s?feature=shared), [bilibili](https://www.bilibili.com/video/BV1zVG2zVE1e/?share_source=copy_web&vd_source=222300375bbc659e752c8304d20bb6d5).
 
 **2025.02** &emsp; Honored to serve as Area Chair for ACM MM 2025.
 
-**2025.01** &emsp; Honored to be invited to the Embassy of the People's Republic of China in the Commonwealth of Australia for a talk on _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_.
+<!-- **2025.01** &emsp; Honored to be invited to the Embassy of the People's Republic of China in the Commonwealth of Australia for a talk on _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_. -->
 
 **2024.12** &emsp; Happy to announce our WWW 2025 (the ACM Web Conference) workshop on Multimedia Object Re-ID (MORE'25), where I'm serving as the organizing team. Open to submissions for up to four pages. [homepage](https://www.zdzheng.xyz/MORE2025/), [submission site](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/MORE).
-
-**2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [project page](https://dvgformer.github.io/), [code](https://github.com/hou-yz/dvgformer), [Twitter](https://x.com/YunzhongH/status/1869147797746008222).
 
 
 <details markdown="1">
   <summary>Show News Archive</summary>
+
+**2024.12** &emsp; Check out our latest work on drone videography, _"[Learning Camera Movement Control from Real-World Drone Videos](https://dvgformer.github.io/)"_, where we take a different approach to AIGC and record the scene as is rather than creating from scratch. [paper](https://arxiv.org/abs/2412.09620), [project page](https://dvgformer.github.io/), [code](https://github.com/hou-yz/dvgformer), [Twitter](https://x.com/YunzhongH/status/1869147797746008222).
+
 
 **2024.10** &emsp; I am serving as an Area Chair for ACM Multimedia 2024 [[full program]](https://2024.acmmm.org/files/MM24-Full_Program.pdf). An honor to serve as Session Chair and host Oral Session 13 - Machine Learning for Multimedia with [Prof. Chang Xu](http://changxu.xyz/). Excited to present our latest work on AI drone videography at the [ACM MM Area Chair Workshop](https://sites.google.com/view/mm24acworkshop/) for ACM MM 2024.
 
@@ -93,6 +96,16 @@ News
 
 Research Papers
 ======
+**Effective Training Data Synthesis for Improving MLLM Chart Understanding**<br>
+Yuwei Yang, Zeyu Zhang, **Yunzhong Hou**, Zhuowan Li, Gaowen Liu, Ali Payani, Yuan-Sen Ting, Liang Zheng<br>
+<em>ICCV, 2025<em/><br>
+<a target="_blank" href=""><button id="touch">PDF (pending)</button></a>
+
+<a target="_blank" href="https://end2end-diffusion.github.io/">**REPA-E: Unlocking VAE for End-to-End Tuning of Latent Diffusion Transformers**<a/><br>
+Xingjian Leng, Jaskirat Singh, **Yunzhong Hou**, Zhenchang Xing, Saining Xie, Liang Zheng <br>
+<em>ICCV, 2025<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2504.10483"><button id="touch">PDF</button></a> <a target="_blank" href="https://end2end-diffusion.github.io/"><button id="touch">Project page</button></a> <a target="_blank" href="https://github.com/End2End-Diffusion/REPA-E"><button id="touch">Code</button></a> <a target="_blank" href="https://x.com/1jaskiratsingh/status/1912634637291254127"><button id="touch">Twitter</button></a> 
+
 <a target="_blank" href="https://dvgformer.github.io/">**Learning Camera Movement Control from Real-World Drone Videos**<a/><br>
 **Yunzhong Hou**, Liang Zheng, Philip Torr<br>
 <em>arXiv preprint, 2024<em/><br>
